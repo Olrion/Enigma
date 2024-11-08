@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/VINGA/Documents/Unreal Projects/Zagadka/Content/Defender/Datatables/DialogueDatatables/LevelDialogueMain/DIA_TestDialogue.uasset",
+				"C:/Users/VINGA/Documents/Unreal Projects/Zagadka/Content/Defender/Demo/Levels/LevelDialogueBlockout.umap",
+				"C:/Users/VINGA/Documents/Unreal Projects/Zagadka/Content/Defender/Datatables/DialogueDatatables/LevelDialogueMain/DIA_BasicDialogue.uasset",
+				"C:/Users/VINGA/Documents/Unreal Projects/Zagadka/Content/Defender/Datatables/DialogueDatatables/LevelDialogueMain/DIA_ConsoleOpenDoor.uasset",
+				"C:/Users/VINGA/Documents/Unreal Projects/Zagadka/Content/Defender/Datatables/DialogueDatatables/LevelDialogueMain/DIA_DialogueBranchesWithStatRequirements.uasset",
+				"C:/Users/VINGA/Documents/Unreal Projects/Zagadka/Content/Defender/Datatables/DialogueDatatables/LevelDialogueMain/DIA_Welcome.uasset",
+				"C:/Users/VINGA/Documents/Unreal Projects/Zagadka/Content/Defender/Demo/Blueprints/BP_DoubleDoors.uasset",
+				"C:/Users/VINGA/Documents/Unreal Projects/Zagadka/Content/Defender/Blueprints/Characters/DialogueNPCs/BP_MainCharParent_Child.uasset"
+			]
+		}
+	]
+}
